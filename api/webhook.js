@@ -129,7 +129,7 @@ module.exports = async (req, res) => {
       const isAdmin = Number(m.from?.id) === ADMIN_ID;
       if (m.text === "/start") {
         if (isAdmin) await sendMessage(chatId, "Assalomu alaykum, admin! PDF katalog va Excel narxlar faylini yuboring.");
-        else await sendMessage(chatId, "Assalomu alaykum! Sokany rasmiy do‘koniga xush kelibsiz. Mahsulotlarni ko‘rish va buyurtma berish uchun do‘konni oching.");
+        else await sendMessage(chatId, "Assalomu alaykum! Sokany rasmiy do‘koniga xush kelibsiz. Mahsulotlarni ko‘rish uchun do‘konni oching.", { reply_markup: { inline_keyboard: [[{ text: "🛍 Do‘konni ochish", web_app: { url: "https://sokany-ten.vercel.app" } }]] } });
       } else if (m.document) {
         if (isAdmin) await processAdminFile(m, chatId);
         else await sendMessage(chatId, "Fayl yuborish faqat administrator uchun.");
