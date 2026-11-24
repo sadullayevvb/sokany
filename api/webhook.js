@@ -97,9 +97,10 @@ async function processAdminFile(m, chatId) {
   }
   await sendMessage(chatId, `Qabul qilindi: ${filename}. Fayl o‘qilmoqda...`);
   const meta = await telegram("getFile", { file_id: file.file_id });
-  const url = `${API}/file${process.env.BOT_TOKEN}/${meta.file_path}`;
+  const url = `${API}/file/bot${process.env.BOT_TOKEN}/${meta.file_path}`;
+  if (file.file_size && file.file_size > 20 * 1024 * 1024) throw new Error("Fayl 20 MB dan katta. PDF katalogni siqib, 20 MB dan kichik qilib qayta yuboring.");
   const response = await fetch(url);
-  if (!response.ok) throw new Error("Telegram faylini yuklab bo‘lmadi");
+  if (!response.ok) throw new Error(`Telegram faylini yuklab bo‘lmadi (HTTP ${response.status})`);
   const buffer = Buffer.from(await response.arrayBuffer());
   if (ext === "pdf") {
     const pages = await parsePdf(buffer);
