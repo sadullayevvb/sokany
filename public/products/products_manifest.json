@@ -5,7 +5,8 @@
     "name": "SK-06008-чоппер",
     "image": "SK-06008.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 260000
   },
   {
     "category": "kitchen",
@@ -21,7 +22,8 @@
     "name": "SK-7025A-чоппер",
     "image": "SK-7025A.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 200000
   },
   {
     "category": "kitchen",
@@ -29,7 +31,8 @@
     "name": "SK-7026-чоппер",
     "image": "SK-7026.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 255000
   },
   {
     "category": "kitchen",
@@ -37,7 +40,8 @@
     "name": "SK-06027-чоппер",
     "image": "SK-06027.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 265000
   },
   {
     "category": "kitchen",
@@ -69,7 +73,8 @@
     "name": "SK-06011-чоппер",
     "image": "SK-06011.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 300000
   },
   {
     "category": "kitchen",
@@ -77,7 +82,8 @@
     "name": "SK-06021-чоппер",
     "image": "SK-06021.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 310000
   },
   {
     "category": "kitchen",
@@ -85,7 +91,8 @@
     "name": "SK-06023-чоппер",
     "image": "SK-06023.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 260000
   },
   {
     "category": "kitchen",
@@ -109,7 +116,8 @@
     "name": "SK-06047-чоппер",
     "image": "SK-06047.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 220000
   },
   {
     "category": "kitchen",
@@ -117,7 +125,8 @@
     "name": "LB-7004A-чоппер",
     "image": "LB-7004A.jpg",
     "image_width": 543,
-    "image_height": 363
+    "image_height": 363,
+    "price": 190000
   },
   {
     "category": "kitchen",
@@ -141,7 +150,8 @@
     "name": "SK-666666-чоппер",
     "image": "SK-666666.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 610000
   },
   {
     "category": "kitchen",
@@ -149,7 +159,8 @@
     "name": "SK-7088-чоппер",
     "image": "SK-7088.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 370000
   },
   {
     "category": "kitchen",
@@ -157,7 +168,8 @@
     "name": "SK-06049-блендер",
     "image": "SK-06049.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 330000
   },
   {
     "category": "kitchen",
@@ -173,7 +185,8 @@
     "name": "SK-06033-чоппер",
     "image": "SK-06033.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 320000
   },
   {
     "category": "kitchen",
@@ -181,7 +194,8 @@
     "name": "SK-06035-чоппер",
     "image": "SK-06035.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 260000
   },
   {
     "category": "kitchen",
@@ -189,7 +203,8 @@
     "name": "SK-06036-чоппер",
     "image": "SK-06036.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 300000
   },
   {
     "category": "kitchen",
@@ -197,7 +212,8 @@
     "name": "SK-06026-чоппер",
     "image": "SK-06026.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 230000
   },
   {
     "category": "kitchen",
@@ -205,7 +221,8 @@
     "name": "SK-7027-чоппер",
     "image": "SK-7027.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 210000
   },
   {
     "category": "kitchen",
@@ -213,7 +230,8 @@
     "name": "SK-7028-чоппер",
     "image": "SK-7028.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 215000
   },
   {
     "category": "kitchen",
@@ -221,7 +239,8 @@
     "name": "SK-7020-чоппер",
     "image": "SK-7020.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 140000
   },
   {
     "category": "kitchen",
@@ -229,7 +248,8 @@
     "name": "SK-06048-чоппер",
     "image": "SK-06048.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -237,7 +257,8 @@
     "name": "SK-06028-чоппер套装",
     "image": "SK-06028.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 170000
   },
   {
     "category": "kitchen",
@@ -253,7 +274,8 @@
     "name": "SK-06014-чоппер",
     "image": "SK-06014.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 200000
   },
   {
     "category": "kitchen",
@@ -261,7 +283,8 @@
     "name": "SK-06019-чоппер",
     "image": "SK-06019.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 240000
   },
   {
     "category": "kitchen",
@@ -269,7 +292,8 @@
     "name": "SK-06020-чоппер",
     "image": "SK-06020.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 260000
   },
   {
     "category": "kitchen",
@@ -277,7 +301,8 @@
     "name": "SK-06022-чоппер-BFD",
     "image": "SK-06022.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 200000
   },
   {
     "category": "kitchen",
@@ -293,7 +318,8 @@
     "name": "SK-7030-чоппер-BFD",
     "image": "SK-7030.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 230000
   },
   {
     "category": "kitchen",
@@ -309,7 +335,8 @@
     "name": "SK-7015-чоппер",
     "image": "SK-7015.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 220000
   },
   {
     "category": "kitchen",
@@ -317,7 +344,8 @@
     "name": "LB-7005A-чоппер",
     "image": "LB-7005A.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 180000
   },
   {
     "category": "kitchen",
@@ -333,7 +361,8 @@
     "name": "SK-06009-混色-блендер",
     "image": "SK-06009.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 150000
   },
   {
     "category": "kitchen",
@@ -341,7 +370,8 @@
     "name": "SK-06025-чоппер",
     "image": "SK-06025.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 120000
   },
   {
     "category": "kitchen",
@@ -373,7 +403,8 @@
     "name": "SK-446-切片机",
     "image": "SK-446.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 650000
   },
   {
     "category": "kitchen",
@@ -389,7 +420,8 @@
     "name": "SK-06001-мясорубка",
     "image": "SK-06001.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 420000
   },
   {
     "category": "kitchen",
@@ -397,7 +429,8 @@
     "name": "SK-06006-мясорубка",
     "image": "SK-06006.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 850000
   },
   {
     "category": "kitchen",
@@ -405,7 +438,8 @@
     "name": "SK-06030-мясорубка",
     "image": "SK-06030.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 650000
   },
   {
     "category": "kitchen",
@@ -413,7 +447,8 @@
     "name": "SK-06031-мясорубка",
     "image": "SK-06031.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 600000
   },
   {
     "category": "kitchen",
@@ -421,7 +456,8 @@
     "name": "SK-06032-мясорубка",
     "image": "SK-06032.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 600000
   },
   {
     "category": "kitchen",
@@ -429,7 +465,8 @@
     "name": "SK-06042-мясорубка",
     "image": "SK-06042.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1200000
   },
   {
     "category": "kitchen",
@@ -437,7 +474,8 @@
     "name": "SK-06038-мясорубка",
     "image": "SK-06038.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 570000
   },
   {
     "category": "kitchen",
@@ -445,7 +483,8 @@
     "name": "SK-06051-мясорубка",
     "image": "SK-06051.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 400000
   },
   {
     "category": "kitchen",
@@ -453,7 +492,8 @@
     "name": "SK-091-мясорубка",
     "image": "SK-091.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 550000
   },
   {
     "category": "kitchen",
@@ -461,7 +501,8 @@
     "name": "SK-312-мясорубка",
     "image": "SK-312.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 360000
   },
   {
     "category": "kitchen",
@@ -469,7 +510,8 @@
     "name": "SK-090-мясорубка",
     "image": "SK-090.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 580000
   },
   {
     "category": "kitchen",
@@ -477,7 +519,8 @@
     "name": "SK-06044-мясорубка",
     "image": "SK-06044.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 340000
   },
   {
     "category": "kitchen",
@@ -485,7 +528,8 @@
     "name": "SK-06045-мясорубка",
     "image": "SK-06045.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 420000
   },
   {
     "category": "kitchen",
@@ -501,7 +545,8 @@
     "name": "SK-06029-овощерезка",
     "image": "SK-06029.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 300000
   },
   {
     "category": "kitchen",
@@ -509,7 +554,8 @@
     "name": "SK-1180-овощерезка",
     "image": "SK-1180.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 460000
   },
   {
     "category": "kitchen",
@@ -525,7 +571,8 @@
     "name": "SK-06010-овощерезка",
     "image": "SK-06010.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 540000
   },
   {
     "category": "kitchen",
@@ -541,7 +588,8 @@
     "name": "SK-277-миксер",
     "image": "SK-277.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1000000
   },
   {
     "category": "kitchen",
@@ -549,7 +597,8 @@
     "name": "SK-276-миксер",
     "image": "SK-276.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 800000
   },
   {
     "category": "kitchen",
@@ -573,7 +622,8 @@
     "name": "SK-05001-миксер",
     "image": "SK-05001.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1160000
   },
   {
     "category": "kitchen",
@@ -581,7 +631,8 @@
     "name": "SK-275-миксер",
     "image": "SK-275.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 870000
   },
   {
     "category": "kitchen",
@@ -589,7 +640,8 @@
     "name": "SK-271-миксер",
     "image": "SK-271.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 710000
   },
   {
     "category": "kitchen",
@@ -597,7 +649,8 @@
     "name": "SK-05016-миксер",
     "image": "SK-05016.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 950000
   },
   {
     "category": "kitchen",
@@ -621,7 +674,8 @@
     "name": "SK-05010-миксер",
     "image": "SK-05010.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1200000
   },
   {
     "category": "kitchen",
@@ -629,7 +683,8 @@
     "name": "SK-6663-миксер",
     "image": "SK-6663.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 330000
   },
   {
     "category": "kitchen",
@@ -637,7 +692,8 @@
     "name": "SK-6662-миксер ручной",
     "image": "SK-6662.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 320000
   },
   {
     "category": "kitchen",
@@ -669,7 +725,8 @@
     "name": "SK-05003-миксер",
     "image": "SK-05003.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1600000
   },
   {
     "category": "kitchen",
@@ -677,7 +734,8 @@
     "name": "SK-05008-миксер",
     "image": "SK-05008.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 850000
   },
   {
     "category": "kitchen",
@@ -685,7 +743,8 @@
     "name": "SK-05011-миксер",
     "image": "SK-05011.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1500000
   },
   {
     "category": "kitchen",
@@ -693,7 +752,8 @@
     "name": "SK-05012-миксер",
     "image": "SK-05012.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 2320000
   },
   {
     "category": "kitchen",
@@ -701,7 +761,8 @@
     "name": "SK-05014-миксер",
     "image": "SK-05014.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1660000
   },
   {
     "category": "kitchen",
@@ -717,7 +778,8 @@
     "name": "SK-05018-миксер",
     "image": "SK-05018.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 600000
   },
   {
     "category": "kitchen",
@@ -725,7 +787,8 @@
     "name": "SK-269-миксер",
     "image": "SK-269.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1300000
   },
   {
     "category": "kitchen",
@@ -749,7 +812,8 @@
     "name": "SK-266-миксер",
     "image": "SK-266.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 900000
   },
   {
     "category": "kitchen",
@@ -757,7 +821,8 @@
     "name": "SK-272-миксер",
     "image": "SK-272.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 860000
   },
   {
     "category": "kitchen",
@@ -773,7 +838,8 @@
     "name": "SK-05019-миксер",
     "image": "SK-05019.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 600000
   },
   {
     "category": "kitchen",
@@ -789,7 +855,8 @@
     "name": "SK-05017-миксер",
     "image": "SK-05017.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 680000
   },
   {
     "category": "kitchen",
@@ -797,7 +864,8 @@
     "name": "SK-03073-блендер",
     "image": "SK-03073.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 730000
   },
   {
     "category": "kitchen",
@@ -805,7 +873,8 @@
     "name": "SK-111-блендер",
     "image": "SK-111.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 500000
   },
   {
     "category": "kitchen",
@@ -813,7 +882,8 @@
     "name": "SK-03046-соковыжималка",
     "image": "SK-03046.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 280000
   },
   {
     "category": "kitchen",
@@ -821,7 +891,8 @@
     "name": "SK-4008-блендер(SX)",
     "image": "SK-4008.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 380000
   },
   {
     "category": "kitchen",
@@ -829,7 +900,8 @@
     "name": "SK-03029-блендер",
     "image": "SK-03029.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 610000
   },
   {
     "category": "kitchen",
@@ -837,7 +909,8 @@
     "name": "SK-03063-多功能料理机",
     "image": "SK-03063.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 780000
   },
   {
     "category": "kitchen",
@@ -845,7 +918,8 @@
     "name": "SK-03008-灰色-блендер",
     "image": "SK-03008.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 250000
   },
   {
     "category": "kitchen",
@@ -853,7 +927,8 @@
     "name": "SK-3333-3合1-блендер",
     "image": "SK-3333.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 560000
   },
   {
     "category": "kitchen",
@@ -869,7 +944,8 @@
     "name": "SK-03027-блендер",
     "image": "SK-03027.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 320000
   },
   {
     "category": "kitchen",
@@ -877,7 +953,8 @@
     "name": "SK-03036-черный-блендер",
     "image": "SK-03036.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 330000
   },
   {
     "category": "kitchen",
@@ -885,7 +962,8 @@
     "name": "SK-03036-белый-блендер-BFD",
     "image": "SK-03036.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 330000
   },
   {
     "category": "kitchen",
@@ -893,7 +971,8 @@
     "name": "SK-03036-灰色-блендер-BFD",
     "image": "SK-03036.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 330000
   },
   {
     "category": "kitchen",
@@ -901,7 +980,8 @@
     "name": "SK-03067-блендер",
     "image": "SK-03067.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 290000
   },
   {
     "category": "kitchen",
@@ -925,7 +1005,8 @@
     "name": "SK-03019-соковыжималка",
     "image": "SK-03019.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 270000
   },
   {
     "category": "kitchen",
@@ -949,7 +1030,8 @@
     "name": "SK-03062-блендер",
     "image": "SK-03062.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 250000
   },
   {
     "category": "kitchen",
@@ -973,7 +1055,8 @@
     "name": "SK-03041-блендер",
     "image": "SK-03041.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 200000
   },
   {
     "category": "kitchen",
@@ -981,7 +1064,8 @@
     "name": "SK-03042-блендер",
     "image": "SK-03042.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 210000
   },
   {
     "category": "kitchen",
@@ -997,7 +1081,8 @@
     "name": "SK-144-блендер",
     "image": "SK-144.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 300000
   },
   {
     "category": "kitchen",
@@ -1005,7 +1090,8 @@
     "name": "SK-03031-блендер",
     "image": "SK-03031.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 240000
   },
   {
     "category": "kitchen",
@@ -1021,7 +1107,8 @@
     "name": "SK-03032-блендер",
     "image": "SK-03032.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 270000
   },
   {
     "category": "kitchen",
@@ -1037,7 +1124,8 @@
     "name": "SK-03075-соковыжималка",
     "image": "SK-03075.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 240000
   },
   {
     "category": "kitchen",
@@ -1045,7 +1133,8 @@
     "name": "SK-03079-соковыжималка",
     "image": "SK-03079.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 190000
   },
   {
     "category": "kitchen",
@@ -1077,7 +1166,8 @@
     "name": "SK-01023-混装-соковыжималка",
     "image": "SK-01023.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 220000
   },
   {
     "category": "kitchen",
@@ -1117,7 +1207,8 @@
     "name": "SK-185-черный-блендер",
     "image": "SK-185.jpg",
     "image_width": 571,
-    "image_height": 380
+    "image_height": 380,
+    "price": 230000
   },
   {
     "category": "kitchen",
@@ -1125,7 +1216,8 @@
     "name": "SK-185-белый-блендер",
     "image": "SK-185.jpg",
     "image_width": 571,
-    "image_height": 380
+    "image_height": 380,
+    "price": 230000
   },
   {
     "category": "kitchen",
@@ -1149,7 +1241,8 @@
     "name": "SK-155-блендер",
     "image": "SK-155.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 340000
   },
   {
     "category": "kitchen",
@@ -1157,7 +1250,8 @@
     "name": "SK-154-блендер",
     "image": "SK-154.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 320000
   },
   {
     "category": "kitchen",
@@ -1173,7 +1267,8 @@
     "name": "SK-03072-соковыжималка",
     "image": "SK-03072.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 320000
   },
   {
     "category": "kitchen",
@@ -1221,7 +1316,8 @@
     "name": "SK-666-混装-блендер",
     "image": "SK-666.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 320000
   },
   {
     "category": "kitchen",
@@ -1237,7 +1333,8 @@
     "name": "SK-03081-блендер",
     "image": "SK-03081.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 200000
   },
   {
     "category": "kitchen",
@@ -1245,7 +1342,8 @@
     "name": "SK-03049-блендер",
     "image": "SK-03049.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 800000
   },
   {
     "category": "kitchen",
@@ -1261,7 +1359,8 @@
     "name": "SK-999-блендер",
     "image": "SK-999.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 400000
   },
   {
     "category": "kitchen",
@@ -1269,7 +1368,8 @@
     "name": "SK-03077-блендер",
     "image": "SK-03077.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 180000
   },
   {
     "category": "kitchen",
@@ -1277,7 +1377,8 @@
     "name": "SK-03043-блендер",
     "image": "SK-03043.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 390000
   },
   {
     "category": "kitchen",
@@ -1293,7 +1394,8 @@
     "name": "SK-01002-原汁机",
     "image": "SK-01002.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 840000
   },
   {
     "category": "kitchen",
@@ -1301,7 +1403,8 @@
     "name": "SK-01003-原汁机",
     "image": "SK-01003.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 510000
   },
   {
     "category": "kitchen",
@@ -1309,7 +1412,8 @@
     "name": "SK-01004-原汁机",
     "image": "SK-01004.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 700000
   },
   {
     "category": "kitchen",
@@ -1317,7 +1421,8 @@
     "name": "SK-01005-原汁机",
     "image": "SK-01005.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 500000
   },
   {
     "category": "kitchen",
@@ -1333,7 +1438,8 @@
     "name": "SK-01009-соковыжималка",
     "image": "SK-01009.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 750000
   },
   {
     "category": "kitchen",
@@ -1341,7 +1447,8 @@
     "name": "SK-01010-原汁机",
     "image": "SK-01010.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 650000
   },
   {
     "category": "kitchen",
@@ -1349,7 +1456,8 @@
     "name": "SK-01013-原汁机",
     "image": "SK-01013.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 590000
   },
   {
     "category": "kitchen",
@@ -1357,7 +1465,8 @@
     "name": "SK-01015-原汁机",
     "image": "SK-01015.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 700000
   },
   {
     "category": "kitchen",
@@ -1365,7 +1474,8 @@
     "name": "SK-01019-соковыжималка",
     "image": "SK-01019.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 360000
   },
   {
     "category": "kitchen",
@@ -1389,7 +1499,8 @@
     "name": "SK-27-соковыжималка",
     "image": "SK-27.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 600000
   },
   {
     "category": "kitchen",
@@ -1421,7 +1532,8 @@
     "name": "SK-4000-соковыжималка",
     "image": "SK-4000.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 330000
   },
   {
     "category": "kitchen",
@@ -1429,7 +1541,8 @@
     "name": "SK-4009-блендер",
     "image": "SK-4009.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 450000
   },
   {
     "category": "kitchen",
@@ -1437,7 +1550,8 @@
     "name": "SK-01021-原汁机",
     "image": "SK-01021.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 650000
   },
   {
     "category": "kitchen",
@@ -1453,7 +1567,8 @@
     "name": "SK-01011-соковыжималка",
     "image": "SK-01011.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 500000
   },
   {
     "category": "kitchen",
@@ -1461,7 +1576,8 @@
     "name": "SK-03009-соковыжималка",
     "image": "SK-03009.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 450000
   },
   {
     "category": "kitchen",
@@ -1469,7 +1585,8 @@
     "name": "SK-03014-соковыжималка",
     "image": "SK-03014.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 555000
   },
   {
     "category": "kitchen",
@@ -1477,7 +1594,8 @@
     "name": "SK-03033-соковыжималка",
     "image": "SK-03033.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 320000
   },
   {
     "category": "kitchen",
@@ -1485,7 +1603,8 @@
     "name": "SK-1776-面条机",
     "image": "SK-1776.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 1000000
   },
   {
     "category": "kitchen",
@@ -1557,7 +1676,8 @@
     "name": "SK-02006-手持式блендер",
     "image": "SK-02006.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -1565,7 +1685,8 @@
     "name": "SK-02009-手持式блендер",
     "image": "SK-02009.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 180000
   },
   {
     "category": "kitchen",
@@ -1573,7 +1694,8 @@
     "name": "SK-02011-手持блендер",
     "image": "SK-02011.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 220000
   },
   {
     "category": "kitchen",
@@ -1581,7 +1703,8 @@
     "name": "SK-02012-4in1手持式блендер",
     "image": "SK-02012.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 190000
   },
   {
     "category": "kitchen",
@@ -1605,7 +1728,8 @@
     "name": "SK-02029-блендер погружной",
     "image": "SK-02029.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 280000
   },
   {
     "category": "kitchen",
@@ -1613,7 +1737,8 @@
     "name": "SK-02031-手持блендер",
     "image": "SK-02031.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 230000
   },
   {
     "category": "kitchen",
@@ -1621,7 +1746,8 @@
     "name": "SK-02032-手持блендер",
     "image": "SK-02032.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 240000
   },
   {
     "category": "kitchen",
@@ -1629,7 +1755,8 @@
     "name": "SK-02033-手持блендер",
     "image": "SK-02033.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 205000
   },
   {
     "category": "kitchen",
@@ -1645,7 +1772,8 @@
     "name": "SK-02036-блендер погружной",
     "image": "SK-02036.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 250000
   },
   {
     "category": "kitchen",
@@ -1653,7 +1781,8 @@
     "name": "SK-02043-блендер погружной",
     "image": "SK-02043.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 170000
   },
   {
     "category": "kitchen",
@@ -1661,7 +1790,8 @@
     "name": "SK-02020-блендер погружной",
     "image": "Sk-02020.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 165000
   },
   {
     "category": "kitchen",
@@ -1677,7 +1807,8 @@
     "name": "SK-1723-блендер",
     "image": "SK-1723.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 85000
   },
   {
     "category": "kitchen",
@@ -1693,7 +1824,8 @@
     "name": "SK-1728-блендер",
     "image": "SK-1728.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 190000
   },
   {
     "category": "kitchen",
@@ -1701,7 +1833,8 @@
     "name": "SK-1729-блендер",
     "image": "SK-1729.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 220000
   },
   {
     "category": "kitchen",
@@ -1709,7 +1842,8 @@
     "name": "SK-03051-блендер погружной-24个装",
     "image": "SK-03051.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 210000
   },
   {
     "category": "kitchen",
@@ -1813,7 +1947,8 @@
     "name": "SK-1709-блендер",
     "image": "SK-1709.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 120000
   },
   {
     "category": "kitchen",
@@ -1917,7 +2052,8 @@
     "name": "SK-02042-手持式блендер",
     "image": "SK-02042.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 350000
   },
   {
     "category": "kitchen",
@@ -1941,7 +2077,8 @@
     "name": "SK-1724-блендер",
     "image": "SK-1724.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 130000
   },
   {
     "category": "kitchen",
@@ -1981,7 +2118,8 @@
     "name": "SK-1735-手持式блендер-4色混",
     "image": "SK-1735.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 70000
   },
   {
     "category": "kitchen",
@@ -2061,7 +2199,8 @@
     "name": "SK-1736-立式блендер",
     "image": "SK-1736.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 200000
   },
   {
     "category": "kitchen",
@@ -2093,7 +2232,8 @@
     "name": "SK-04026-кафемолка",
     "image": "SK-04026.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -2101,7 +2241,8 @@
     "name": "SK-04047-кафемолка",
     "image": "SK-04047.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 600000
   },
   {
     "category": "kitchen",
@@ -2109,7 +2250,8 @@
     "name": "SK-3026-кафемолка",
     "image": "SK-3026.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 140000
   },
   {
     "category": "kitchen",
@@ -2181,7 +2323,8 @@
     "name": "SK-04024-混装-кафемолка",
     "image": "SK-04024.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 110000
   },
   {
     "category": "kitchen",
@@ -2189,7 +2332,8 @@
     "name": "SK-04014-кафемолка",
     "image": "SK-04014.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 140000
   },
   {
     "category": "kitchen",
@@ -2197,7 +2341,8 @@
     "name": "SK-04038-кафемолка",
     "image": "SK-04038.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 630000
   },
   {
     "category": "kitchen",
@@ -2205,7 +2350,8 @@
     "name": "SK-02025-миксер ручной",
     "image": "Sk-02025.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 150000
   },
   {
     "category": "kitchen",
@@ -2213,7 +2359,8 @@
     "name": "SK-02026-миксер ручной",
     "image": "SK-02026.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 165000
   },
   {
     "category": "kitchen",
@@ -2229,7 +2376,8 @@
     "name": "SK-6625-миксер ручной(DSWE)",
     "image": "SK-6625.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 120000
   },
   {
     "category": "kitchen",
@@ -2237,7 +2385,8 @@
     "name": "SK-02001-миксер ручной",
     "image": "SK-02001.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 190000
   },
   {
     "category": "kitchen",
@@ -2245,7 +2394,8 @@
     "name": "SK-6627-миксер ручной",
     "image": "SK-6627.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 185000
   },
   {
     "category": "kitchen",
@@ -2293,7 +2443,8 @@
     "name": "SK-02017-миксер ручной",
     "image": "SK-02017.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -2301,7 +2452,8 @@
     "name": "SK-02041-миксер ручной",
     "image": "SK-02041.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -2333,7 +2485,8 @@
     "name": "SK-02037-миксер ручной",
     "image": "SK-02037.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -2341,7 +2494,8 @@
     "name": "SK-02038-миксер ручной",
     "image": "SK-02038.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -2349,7 +2503,8 @@
     "name": "SK-6630-миксер ручной",
     "image": "SK-6630.jpg",
     "image_width": 570,
-    "image_height": 380
+    "image_height": 380,
+    "price": 160000
   },
   {
     "category": "kitchen",
@@ -2405,7 +2560,8 @@
     "name": "SK-01002-原汁机",
     "image": "SK-01002.jpg",
     "image_width": 1500,
-    "image_height": 1000
+    "image_height": 1000,
+    "price": 840000
   },
   {
     "category": "vacuum",
@@ -2413,7 +2569,8 @@
     "name": "SK-13007-пылесос",
     "image": "SK-13007.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 780000
   },
   {
     "category": "vacuum",
@@ -2429,7 +2586,8 @@
     "name": "SK-13025-真空пылесос",
     "image": "SK-13025.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 800000
   },
   {
     "category": "vacuum",
@@ -2437,7 +2595,8 @@
     "name": "SK-13019-пылесос",
     "image": "SK-13019.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 640000
   },
   {
     "category": "vacuum",
@@ -2445,7 +2604,8 @@
     "name": "SK-13021-真空пылесос",
     "image": "SK-13021.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 740000
   },
   {
     "category": "vacuum",
@@ -2453,7 +2613,8 @@
     "name": "SK-13006-真空пылесос",
     "image": "SK-13006.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 640000
   },
   {
     "category": "vacuum",
@@ -2461,7 +2622,8 @@
     "name": "SK-13029-除螨仪-紫色",
     "image": "SK-13029.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 350000
   },
   {
     "category": "vacuum",
@@ -2485,7 +2647,8 @@
     "name": "SK-13033-充电-пылесос",
     "image": "SK-13033.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 680000
   },
   {
     "category": "vacuum",
@@ -2501,7 +2664,8 @@
     "name": "SK-13020-пылесос",
     "image": "SK-13020.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 620000
   },
   {
     "category": "vacuum",
@@ -2509,7 +2673,8 @@
     "name": "SK-13042-пылесос",
     "image": "SK-13042.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 780000
   },
   {
     "category": "vacuum",
@@ -2517,7 +2682,8 @@
     "name": "SK-13027-пылесос",
     "image": "SK-13027.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 580000
   },
   {
     "category": "vacuum",
@@ -2525,7 +2691,8 @@
     "name": "SK-13011-пылесос",
     "image": "SK-13011.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 540000
   },
   {
     "category": "vacuum",
@@ -2541,7 +2708,8 @@
     "name": "SK-13077-пылесос",
     "image": "SK-13077.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 1000000
   },
   {
     "category": "vacuum",
@@ -2549,7 +2717,8 @@
     "name": "SK-13046-手持пылесос",
     "image": "SK-13046.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 1000000
   },
   {
     "category": "vacuum",
@@ -2557,7 +2726,8 @@
     "name": "SK-13053-пылесос",
     "image": "SK-13053.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 820000
   },
   {
     "category": "vacuum",
@@ -2565,7 +2735,8 @@
     "name": "SK-13079-пылесос",
     "image": "SK-13079.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 600000
   },
   {
     "category": "vacuum",
@@ -2581,7 +2752,8 @@
     "name": "SK-4477-充电пылесос",
     "image": "SK-4477.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 650000
   },
   {
     "category": "vacuum",
@@ -2589,7 +2761,8 @@
     "name": "SK-4478-пылесос",
     "image": "SK-4478.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 420000
   },
   {
     "category": "vacuum",
@@ -2597,7 +2770,8 @@
     "name": "SK-13026-пылесос",
     "image": "SK-13026.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 1000000
   },
   {
     "category": "vacuum",
@@ -2605,7 +2779,8 @@
     "name": "SK-13066-пылесос",
     "image": "SK-13066.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 820000
   },
   {
     "category": "vacuum",
@@ -2629,7 +2804,8 @@
     "name": "SK-13083-пылесос",
     "image": "SK-13083.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 560000
   },
   {
     "category": "vacuum",
@@ -2661,7 +2837,8 @@
     "name": "SK-13064-洗地机-BFD",
     "image": "SK-13064.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 2230000
   },
   {
     "category": "vacuum",
@@ -2669,7 +2846,8 @@
     "name": "SK-13067-пылесос",
     "image": "SK-13067.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 750000
   },
   {
     "category": "vacuum",
@@ -2677,7 +2855,8 @@
     "name": "SK-13062-蒸汽拖把",
     "image": "SK-13062.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 600000
   },
   {
     "category": "vacuum",
@@ -2685,7 +2864,8 @@
     "name": "SK-13089-蒸汽拖把",
     "image": "SK-13089.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 510000
   },
   {
     "category": "vacuum",
@@ -2693,7 +2873,8 @@
     "name": "SK-13081-蒸汽清洁器",
     "image": "SK-13081.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 880000
   },
   {
     "category": "vacuum",
@@ -2701,7 +2882,8 @@
     "name": "SK-13088-蒸汽清洁机",
     "image": "SK-13088.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 830000
   },
   {
     "category": "vacuum",
@@ -2709,7 +2891,8 @@
     "name": "SK-13043-пылесос",
     "image": "SK-13043.jpg",
     "image_width": 245,
-    "image_height": 176
+    "image_height": 176,
+    "price": 460000
   },
   {
     "category": "vacuum",
@@ -2717,7 +2900,8 @@
     "name": "SK-13013-真空пылесос",
     "image": "SK-13013.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 440000
   },
   {
     "category": "vacuum",
@@ -2725,7 +2909,8 @@
     "name": "SK-3389-пылесос",
     "image": "SK-3389.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 410000
   },
   {
     "category": "vacuum",
@@ -2733,7 +2918,8 @@
     "name": "SK-13045-пылесос",
     "image": "SK-13045.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 890000
   },
   {
     "category": "vacuum",
@@ -2749,7 +2935,8 @@
     "name": "SK-13014-真空пылесос",
     "image": "SK-13014.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 465000
   },
   {
     "category": "vacuum",
@@ -2757,7 +2944,8 @@
     "name": "SK-13015-真空пылесос",
     "image": "SK-13015.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 590000
   },
   {
     "category": "vacuum",
@@ -2765,7 +2953,8 @@
     "name": "SK-13004-真空пылесос",
     "image": "SK-13004.jpg",
     "image_width": 244,
-    "image_height": 176
+    "image_height": 176,
+    "price": 910000
   },
   {
     "category": "vacuum",
@@ -2773,7 +2962,8 @@
     "name": "SK-13004+塑封-真空пылесос",
     "image": "SK-13004.jpg",
     "image_width": 244,
-    "image_height": 176
+    "image_height": 176,
+    "price": 910000
   },
   {
     "category": "vacuum",
@@ -2781,7 +2971,8 @@
     "name": "SK-13002-真空пылесос",
     "image": "SK-13002.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 630000
   },
   {
     "category": "vacuum",
@@ -2789,7 +2980,8 @@
     "name": "SK-13002+塑封-真空пылесос",
     "image": "SK-13002.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 630000
   },
   {
     "category": "vacuum",
@@ -2797,7 +2989,8 @@
     "name": "SK-3388-пылесос",
     "image": "SK-3388.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 830000
   },
   {
     "category": "vacuum",
@@ -2805,7 +2998,8 @@
     "name": "SK-3381-пылесос",
     "image": "SK-3381.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 530000
   },
   {
     "category": "vacuum",
@@ -2813,7 +3007,8 @@
     "name": "SK-3386-黑-пылесос",
     "image": "SK-3386.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 900000
   },
   {
     "category": "vacuum",
@@ -2829,7 +3024,8 @@
     "name": "SK-13003-真空пылесос",
     "image": "SK-13003.jpg",
     "image_width": 244,
-    "image_height": 176
+    "image_height": 176,
+    "price": 810000
   },
   {
     "category": "vacuum",
@@ -2837,7 +3033,8 @@
     "name": "SK-13003+塑封-真空пылесос",
     "image": "SK-13003.jpg",
     "image_width": 244,
-    "image_height": 176
+    "image_height": 176,
+    "price": 810000
   },
   {
     "category": "vacuum",
@@ -2845,7 +3042,8 @@
     "name": "SK-13087-пылесос",
     "image": "SK-13087.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 940000
   },
   {
     "category": "vacuum",
@@ -2853,7 +3051,8 @@
     "name": "SK-11047-蒸汽清洁刷-乌语",
     "image": "SK-11047.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 400000
   },
   {
     "category": "vacuum",
@@ -2861,7 +3060,8 @@
     "name": "SK-13061-蒸汽清洗机",
     "image": "SK-13061.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 210000
   },
   {
     "category": "vacuum",
@@ -2877,7 +3077,8 @@
     "name": "SK-13082-蒸汽清洁机",
     "image": "SK-13082.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 310000
   },
   {
     "category": "vacuum",
@@ -2909,7 +3110,8 @@
     "name": "SK-16057-美宠器",
     "image": "SK-16057.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 900000
   },
   {
     "category": "vacuum",
@@ -2917,7 +3119,8 @@
     "name": "SK-13048-пылесос",
     "image": "SK-13048.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 350000
   },
   {
     "category": "vacuum",
@@ -2925,7 +3128,8 @@
     "name": "SK-13054-пылесос",
     "image": "SK-13054.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 960000
   },
   {
     "category": "vacuum",
@@ -2933,7 +3137,8 @@
     "name": "SK-13058-清洁刷",
     "image": "SK-13058.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 260000
   },
   {
     "category": "vacuum",
@@ -2941,7 +3146,8 @@
     "name": "SK-13059-地毯清洗机",
     "image": "SK-13059.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 900000
   },
   {
     "category": "vacuum",
@@ -2949,7 +3155,8 @@
     "name": "SK-13065-布艺清洁机",
     "image": "SK-13065.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 900000
   },
   {
     "category": "vacuum",
@@ -2981,6 +3188,7 @@
     "name": "SK-13080-擦窗机",
     "image": "SK-13080.jpg",
     "image_width": 245,
-    "image_height": 163
+    "image_height": 163,
+    "price": 620000
   }
 ]
