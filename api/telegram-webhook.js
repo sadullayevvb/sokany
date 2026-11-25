@@ -14,25 +14,27 @@ export default async function handler(req, res) {
   }
 
   try {
-    // Send Mini App and catalog buttons every time a customer sends /start.
+    // Show persistent bottom Web App keyboard buttons on every /start.
     if (/^\/start(?:@[A-Za-z0-9_]+)?(?:\s|$)/.test(message.text) || message.text === '/start') {
       const response = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({
           chat_id: message.chat.id,
-          text: 'SOKANY do‘koniga xush kelibsiz! Kerakli bo‘limni tanlang:',
+          text: 'SOKANY do‘koniga xush kelibsiz! Katalogni ochish uchun pastdagi tugmani bosing.',
           reply_markup: {
-            inline_keyboard: [[
-              { text: '🛍 Mini App’ni ochish', web_app: { url: 'https://sokany-ten.vercel.app' } },
+            keyboard: [[
+              { text: '🛍 Zakaz qilish', web_app: { url: 'https://sokany-ten.vercel.app' } },
               { text: '📦 Katalogni ko‘rish', web_app: { url: 'https://sokany-ten.vercel.app' } }
-            ]]
+            ]],
+            resize_keyboard: true,
+            is_persistent: true
           }
         })
       });
       const result = await response.json();
       if (!response.ok || !result.ok) {
-        console.error('Telegram start buttons error:', response.status, JSON.stringify(result));
+        console.error('Telegram start keyboard error:', response.status, JSON.stringify(result));
         return res.status(502).json({ ok: false, error: 'Mini App tugmalarini yuborib bo‘lmadi' });
       }
       return res.status(200).json({ ok: true, startButtonsSent: true });
